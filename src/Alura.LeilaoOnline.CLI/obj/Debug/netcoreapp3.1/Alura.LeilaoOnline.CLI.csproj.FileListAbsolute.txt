@@ -1,0 +1,14 @@
+D:\PROJETOS\C#\SOLID - Alura\solid-csharp-master\SOLID-A\src\Alura.LeilaoOnline.CLI\bin\Debug\netcoreapp3.1\Alura.LeilaoOnline.CLI.exe
+D:\PROJETOS\C#\SOLID - Alura\solid-csharp-master\SOLID-A\src\Alura.LeilaoOnline.CLI\bin\Debug\netcoreapp3.1\Alura.LeilaoOnline.CLI.deps.json
+D:\PROJETOS\C#\SOLID - Alura\solid-csharp-master\SOLID-A\src\Alura.LeilaoOnline.CLI\bin\Debug\netcoreapp3.1\Alura.LeilaoOnline.CLI.runtimeconfig.json
+D:\PROJETOS\C#\SOLID - Alura\solid-csharp-master\SOLID-A\src\Alura.LeilaoOnline.CLI\bin\Debug\netcoreapp3.1\Alura.LeilaoOnline.CLI.runtimeconfig.dev.json
+D:\PROJETOS\C#\SOLID - Alura\solid-csharp-master\SOLID-A\src\Alura.LeilaoOnline.CLI\bin\Debug\netcoreapp3.1\Alura.LeilaoOnline.CLI.dll
+D:\PROJETOS\C#\SOLID - Alura\solid-csharp-master\SOLID-A\src\Alura.LeilaoOnline.CLI\bin\Debug\netcoreapp3.1\Alura.LeilaoOnline.CLI.pdb
+D:\PROJETOS\C#\SOLID - Alura\solid-csharp-master\SOLID-A\src\Alura.LeilaoOnline.CLI\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.CLI.csproj.AssemblyReference.cache
+D:\PROJETOS\C#\SOLID - Alura\solid-csharp-master\SOLID-A\src\Alura.LeilaoOnline.CLI\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.CLI.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJETOS\C#\SOLID - Alura\solid-csharp-master\SOLID-A\src\Alura.LeilaoOnline.CLI\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.CLI.AssemblyInfoInputs.cache
+D:\PROJETOS\C#\SOLID - Alura\solid-csharp-master\SOLID-A\src\Alura.LeilaoOnline.CLI\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.CLI.AssemblyInfo.cs
+D:\PROJETOS\C#\SOLID - Alura\solid-csharp-master\SOLID-A\src\Alura.LeilaoOnline.CLI\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.CLI.csproj.CoreCompileInputs.cache
+D:\PROJETOS\C#\SOLID - Alura\solid-csharp-master\SOLID-A\src\Alura.LeilaoOnline.CLI\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.CLI.dll
+D:\PROJETOS\C#\SOLID - Alura\solid-csharp-master\SOLID-A\src\Alura.LeilaoOnline.CLI\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.CLI.pdb
+D:\PROJETOS\C#\SOLID - Alura\solid-csharp-master\SOLID-A\src\Alura.LeilaoOnline.CLI\obj\Debug\netcoreapp3.1\Alura.LeilaoOnline.CLI.genruntimeconfig.cache

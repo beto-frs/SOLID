@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PROJETOS\\C#\\SOLID - Alura\\solid-csharp-master\\solid-csharp-master\\src\\Alura.LeilaoOnline.CLI\\Alura.LeilaoOnline.CLI.csproj",
+      "projectUniqueName": "D:\\PROJETOS\\C#\\SOLID - Alura\\solid-csharp-master\\SOLID-A\\src\\Alura.LeilaoOnline.CLI\\Alura.LeilaoOnline.CLI.csproj",
       "projectName": "Alura.LeilaoOnline.CLI",
-      "projectPath": "D:\\PROJETOS\\C#\\SOLID - Alura\\solid-csharp-master\\solid-csharp-master\\src\\Alura.LeilaoOnline.CLI\\Alura.LeilaoOnline.CLI.csproj",
+      "projectPath": "D:\\PROJETOS\\C#\\SOLID - Alura\\solid-csharp-master\\SOLID-A\\src\\Alura.LeilaoOnline.CLI\\Alura.LeilaoOnline.CLI.csproj",
       "packagesPath": "C:\\Users\\beto-\\.nuget\\packages\\",
-      "outputPath": "D:\\PROJETOS\\C#\\SOLID - Alura\\solid-csharp-master\\solid-csharp-master\\src\\Alura.LeilaoOnline.CLI\\obj\\",
+      "outputPath": "D:\\PROJETOS\\C#\\SOLID - Alura\\solid-csharp-master\\SOLID-A\\src\\Alura.LeilaoOnline.CLI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PROJETOS\\C#\\SOLID - Alura\\solid-csharp-master\\solid-csharp-master\\src\\Alura.LeilaoOnline.WebApp\\Alura.LeilaoOnline.WebApp.csproj": {}
+    "D:\\PROJETOS\\C#\\SOLID - Alura\\solid-csharp-master\\SOLID-A\\src\\Alura.LeilaoOnline.WebApp\\Alura.LeilaoOnline.WebApp.csproj": {}
   },
   "projects": {
-    "D:\\PROJETOS\\C#\\SOLID - Alura\\solid-csharp-master\\solid-csharp-master\\src\\Alura.LeilaoOnline.WebApp\\Alura.LeilaoOnline.WebApp.csproj": {
+    "D:\\PROJETOS\\C#\\SOLID - Alura\\solid-csharp-master\\SOLID-A\\src\\Alura.LeilaoOnline.WebApp\\Alura.LeilaoOnline.WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROJETOS\\C#\\SOLID - Alura\\solid-csharp-master\\solid-csharp-master\\src\\Alura.LeilaoOnline.WebApp\\Alura.LeilaoOnline.WebApp.csproj",
+        "projectUniqueName": "D:\\PROJETOS\\C#\\SOLID - Alura\\solid-csharp-master\\SOLID-A\\src\\Alura.LeilaoOnline.WebApp\\Alura.LeilaoOnline.WebApp.csproj",
         "projectName": "Alura.LeilaoOnline.WebApp",
-        "projectPath": "D:\\PROJETOS\\C#\\SOLID - Alura\\solid-csharp-master\\solid-csharp-master\\src\\Alura.LeilaoOnline.WebApp\\Alura.LeilaoOnline.WebApp.csproj",
+        "projectPath": "D:\\PROJETOS\\C#\\SOLID - Alura\\solid-csharp-master\\SOLID-A\\src\\Alura.LeilaoOnline.WebApp\\Alura.LeilaoOnline.WebApp.csproj",
         "packagesPath": "C:\\Users\\beto-\\.nuget\\packages\\",
-        "outputPath": "D:\\PROJETOS\\C#\\SOLID - Alura\\solid-csharp-master\\solid-csharp-master\\src\\Alura.LeilaoOnline.WebApp\\obj\\",
+        "outputPath": "D:\\PROJETOS\\C#\\SOLID - Alura\\solid-csharp-master\\SOLID-A\\src\\Alura.LeilaoOnline.WebApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

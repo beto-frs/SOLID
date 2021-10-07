@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MEDHuqnoGUtbvsEwk4ebdjAKl3OdKCHb1jsQrvugSgLSqo49+mnXobBNm38RACB+sDzb9uNNxmIq4x5qEyEjXg==",
+  "dgSpecHash": "xr7kVaXp3Xg/gIaQsek1IPHgmT3m12wggg3DwmFb6Ko7XqtXqt51UbSlhN/fQJiEHfexZ7nJX88ib6oU/FNkcA==",
   "success": true,
-  "projectFilePath": "D:\\PROJETOS\\C#\\SOLID - Alura\\solid-csharp-master\\solid-csharp-master\\src\\Alura.LeilaoOnline.CLI\\Alura.LeilaoOnline.CLI.csproj",
+  "projectFilePath": "D:\\PROJETOS\\C#\\SOLID - Alura\\solid-csharp-master\\SOLID-A\\src\\Alura.LeilaoOnline.CLI\\Alura.LeilaoOnline.CLI.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
