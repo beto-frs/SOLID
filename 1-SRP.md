@@ -1,6 +1,8 @@
 Single Responsability Principle
 ==============================
 
+[Voltar](README.md)
+
 O Principio da responsabilidade única diz que os elementos de software (módulos, classes, funções, etc...) devem ter apenas uma responsabilidade. Nesse contexto responsabilidade é definido como "uma razão para mudar".
 
 O **princípio-responsabilidade única** ( **SRP** ) é um princípio de programação de computador que estados que cada módulo , classe ou função em um programa de computador deve ter a responsabilidade sobre uma única parte desse programa funcionalidade, e deve encapsular essa parte. Tudo isso módulo, classe ou da função de serviços devem ser estreitamente alinhadas com essa responsabilidade.
