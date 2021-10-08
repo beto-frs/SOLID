@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PROJETOS\\C#\\SOLID - Alura\\solid-csharp-master\\SOLID-A\\src\\Alura.LeilaoOnline.CLI\\Alura.LeilaoOnline.CLI.csproj": {}
+    "D:\\PROJETOS\\C#\\SOLID - Alura\\SOLID\\solid-csharp-roteiro-aula-lsp-isp\\src\\Alura.LeilaoOnline.CLI\\Alura.LeilaoOnline.CLI.csproj": {}
   },
   "projects": {
-    "D:\\PROJETOS\\C#\\SOLID - Alura\\solid-csharp-master\\SOLID-A\\src\\Alura.LeilaoOnline.CLI\\Alura.LeilaoOnline.CLI.csproj": {
+    "D:\\PROJETOS\\C#\\SOLID - Alura\\SOLID\\solid-csharp-roteiro-aula-lsp-isp\\src\\Alura.LeilaoOnline.CLI\\Alura.LeilaoOnline.CLI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROJETOS\\C#\\SOLID - Alura\\solid-csharp-master\\SOLID-A\\src\\Alura.LeilaoOnline.CLI\\Alura.LeilaoOnline.CLI.csproj",
+        "projectUniqueName": "D:\\PROJETOS\\C#\\SOLID - Alura\\SOLID\\solid-csharp-roteiro-aula-lsp-isp\\src\\Alura.LeilaoOnline.CLI\\Alura.LeilaoOnline.CLI.csproj",
         "projectName": "Alura.LeilaoOnline.CLI",
-        "projectPath": "D:\\PROJETOS\\C#\\SOLID - Alura\\solid-csharp-master\\SOLID-A\\src\\Alura.LeilaoOnline.CLI\\Alura.LeilaoOnline.CLI.csproj",
+        "projectPath": "D:\\PROJETOS\\C#\\SOLID - Alura\\SOLID\\solid-csharp-roteiro-aula-lsp-isp\\src\\Alura.LeilaoOnline.CLI\\Alura.LeilaoOnline.CLI.csproj",
         "packagesPath": "C:\\Users\\beto-\\.nuget\\packages\\",
-        "outputPath": "D:\\PROJETOS\\C#\\SOLID - Alura\\solid-csharp-master\\SOLID-A\\src\\Alura.LeilaoOnline.CLI\\obj\\",
+        "outputPath": "D:\\PROJETOS\\C#\\SOLID - Alura\\SOLID\\solid-csharp-roteiro-aula-lsp-isp\\src\\Alura.LeilaoOnline.CLI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

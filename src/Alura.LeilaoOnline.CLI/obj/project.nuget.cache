@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xr7kVaXp3Xg/gIaQsek1IPHgmT3m12wggg3DwmFb6Ko7XqtXqt51UbSlhN/fQJiEHfexZ7nJX88ib6oU/FNkcA==",
+  "dgSpecHash": "8J84CGTjVrZTVKKhnBK8tWnHn9Acbccl6unpIJ+3QsF2n/GoHOnMSIUCy86Jac/btIO1pjb+Ru/TAcCtooBSkQ==",
   "success": true,
-  "projectFilePath": "D:\\PROJETOS\\C#\\SOLID - Alura\\solid-csharp-master\\SOLID-A\\src\\Alura.LeilaoOnline.CLI\\Alura.LeilaoOnline.CLI.csproj",
+  "projectFilePath": "D:\\PROJETOS\\C#\\SOLID - Alura\\SOLID\\solid-csharp-roteiro-aula-lsp-isp\\src\\Alura.LeilaoOnline.CLI\\Alura.LeilaoOnline.CLI.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

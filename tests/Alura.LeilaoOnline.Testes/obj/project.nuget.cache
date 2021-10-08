@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9Y+qFNKnTbXs/Y4yb4yrZicbycLMIEP7UXpZ7RYxvBjMP4DnIbOrOj6iPwHAIccNrTRDIJ0t/Jj/0qzRKMDYVQ==",
+  "dgSpecHash": "4at4unYRlMzJmSpG36YVRFOBQoksuIhBupqAe89np4woaJEersuldlxeiR7gCD++B57vXjoG4KhGseSxCYlP/g==",
   "success": true,
-  "projectFilePath": "D:\\PROJETOS\\C#\\SOLID - Alura\\solid-csharp-master\\SOLID-A\\tests\\Alura.LeilaoOnline.Testes\\Alura.LeilaoOnline.Testes.csproj",
+  "projectFilePath": "D:\\PROJETOS\\C#\\SOLID - Alura\\SOLID\\solid-csharp-roteiro-aula-lsp-isp\\tests\\Alura.LeilaoOnline.Testes\\Alura.LeilaoOnline.Testes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\beto-\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\beto-\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
